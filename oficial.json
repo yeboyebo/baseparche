@@ -1,13 +1,13 @@
 {
     "name": "oficial",
     "modifications": {
-        "addFile": [
+        "addFile": [],
+        "replaceFile": [
             {
                 "name": "dependencias.json",
                 "path": "config/"
             }
         ],
-        "replaceFile": [],
         "patchScript": [],
         "deleteFile": [],
         "patchJson": [
