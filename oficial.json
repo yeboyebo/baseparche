@@ -1,0 +1,23 @@
+{
+    "name": "oficial",
+    "modifications": {
+        "addFile": [],
+        "replaceFile": [],
+        "patchScript": [],
+        "deleteFile": [],
+        "patchJson": [
+            {
+                "name": "rest.json",
+                "path": "config/"
+            },
+            {
+                "name": "registro.json",
+                "path": "config/"
+            },
+            {
+                "name": "dependencias.json",
+                "path": "config/"
+            }
+        ]
+    }
+}
