@@ -1,7 +1,12 @@
 {
     "name": "oficial",
     "modifications": {
-        "addFile": [],
+        "addFile": [
+            {
+                "name": "dependencias.json",
+                "path": "config/"
+            }
+        ],
         "replaceFile": [],
         "patchScript": [],
         "deleteFile": [],
@@ -12,10 +17,6 @@
             },
             {
                 "name": "registro.json",
-                "path": "config/"
-            },
-            {
-                "name": "dependencias.json",
                 "path": "config/"
             }
         ]
