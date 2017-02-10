@@ -3,7 +3,7 @@
     "modifications": {
         "addFile": [
             {
-                "name": "rest.json",
+                "name": "urls.json",
                 "path": "config/"
             },
             {

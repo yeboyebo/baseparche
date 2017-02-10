@@ -1,12 +1,1 @@
-{
-    "flfacturac": {
-        "presupuestoscli": null,
-        "pedidoscli": null,
-        "facturascli": null,
-        "reciboscli": null,
-        "pagosdevolcli": null
-    },
-    "flfactppal": {
-        "clientes": null
-    }
-}
+{}
