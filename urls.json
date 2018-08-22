@@ -2,5 +2,6 @@
     "portal": {
         "rest": {},
         "external": {}
-    }
+    },
+    "models": {}
 }
