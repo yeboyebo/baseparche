@@ -13,6 +13,206 @@
             {
                 "name": "dependencias.json",
                 "path": "config/"
+            },
+            {
+                "path": "assets/dist/notifications/",
+                "name": "sw.js"
+            },
+            {
+                "name": "notifications.js",
+                "path": "assets/dist/notifications/"
+            },
+            {
+                "name": "client.js",
+                "path": "assets/dist/js/"
+            },
+            {
+                "name": "T.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "B.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "check.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "3.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "5.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "9.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "A.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "M.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "U.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "P.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "L.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "4.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "8.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "1.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "F.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "W.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "X.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "J.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "S.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "N.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "0.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "V.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "6.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "7.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "Y.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "K.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "D.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "2.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "O.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "C.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "H.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "I.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "Q.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "E.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "Z.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "G.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "R.png",
+                "path": "assets/dist/img/avatars/"
+            },
+            {
+                "name": "logo.png",
+                "path": "assets/dist/img/logo/"
+            },
+            {
+                "name": "icon.png",
+                "path": "assets/dist/img/logo/"
+            },
+            {
+                "name": "sis_gridfilter.py",
+                "path": "models/flsisppal/"
+            },
+            {
+                "name": "sis_gridfilter_def.py",
+                "path": "models/flsisppal/"
+            },
+            {
+                "name": "auth_user_def.py",
+                "path": "models/flsisppal/"
+            },
+            {
+                "name": "sis_usernotifications.py",
+                "path": "models/flsisppal/"
+            },
+            {
+                "name": "auth_group.py",
+                "path": "models/flsisppal/"
+            },
+            {
+                "name": "auth_group_def.py",
+                "path": "models/flsisppal/"
+            },
+            {
+                "name": "sis_usernotifications_def.py",
+                "path": "models/flsisppal/"
+            },
+            {
+                "name": "auth_user.py",
+                "path": "models/flsisppal/"
             }
         ],
         "replaceFile": [],
