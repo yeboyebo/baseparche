@@ -181,38 +181,6 @@
             {
                 "name": "icon.png",
                 "path": "assets/dist/img/logo/"
-            },
-            {
-                "name": "sis_gridfilter.py",
-                "path": "models/flsisppal/"
-            },
-            {
-                "name": "sis_gridfilter_def.py",
-                "path": "models/flsisppal/"
-            },
-            {
-                "name": "auth_user_def.py",
-                "path": "models/flsisppal/"
-            },
-            {
-                "name": "sis_usernotifications.py",
-                "path": "models/flsisppal/"
-            },
-            {
-                "name": "auth_group.py",
-                "path": "models/flsisppal/"
-            },
-            {
-                "name": "auth_group_def.py",
-                "path": "models/flsisppal/"
-            },
-            {
-                "name": "sis_usernotifications_def.py",
-                "path": "models/flsisppal/"
-            },
-            {
-                "name": "auth_user.py",
-                "path": "models/flsisppal/"
             }
         ],
         "replaceFile": [],
