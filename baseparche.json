@@ -15,6 +15,14 @@
                 "path": "config/"
             },
             {
+                "name": "settings.py",
+                "path": "AQNEXT/"
+            },
+            {
+                "name": "wsgi.py",
+                "path": "AQNEXT/"
+            },
+            {
                 "path": "assets/dist/notifications/",
                 "name": "sw.js"
             },
