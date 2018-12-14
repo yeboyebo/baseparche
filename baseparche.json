@@ -189,6 +189,22 @@
             {
                 "name": "icon.png",
                 "path": "assets/dist/img/logo/"
+            },
+            {
+                "path": "apps/portal/templates/portal/",
+                "name": "app_portal__menu_portal.json"
+            },
+            {
+                "path": "apps/portal/templates/portal/",
+                "name": "app_portal__index.html"
+            },
+            {
+                "path": "apps/portal/templates/portal/",
+                "name": "app_portal__login.html"
+            },
+            {
+                "path": "apps/portal/viewset/",
+                "name": "app_portal__views_portal.py"
             }
         ],
         "replaceFile": [],
