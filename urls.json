@@ -1,7 +1,4 @@
 {
-    "portal": {
-        "rest": {},
-        "external": {}
-    },
+    "portal": {},
     "models": {}
 }
