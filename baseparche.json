@@ -3,6 +3,10 @@
     "modifications": {
         "addFile": [
             {
+                "name": "app_portal____init__.py",
+                "path": "apps/portal/"
+            },
+            {
                 "name": "urls.json",
                 "path": "config/"
             },
